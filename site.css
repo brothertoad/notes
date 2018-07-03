@@ -5,3 +5,14 @@ body {
 	// font-family: 'Noto Sans', Georgia, "Palatino Linotype", Times, serif;
 	background: #e6e6e6;
 }
+
+.colFlex {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.colFlex a {
+	flex: 0 1 25%;
+}
