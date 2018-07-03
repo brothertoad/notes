@@ -1,2 +1,2 @@
 # notes
-A repository that will server as a basic GitHub pages site.
+A repository that will serve as a basic GitHub pages site.
