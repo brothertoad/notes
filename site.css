@@ -13,6 +13,6 @@ body {
 	align-items: flex-start;
 }
 
-.colFlex a {
+.flexChild4 {
 	flex: 0 1 25%;
 }
