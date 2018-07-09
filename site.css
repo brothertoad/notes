@@ -2,17 +2,31 @@ body {
 	margin-left: 20px;
 	margin-right: 20px;
 	font-family: 'Lato', 'Noto Sans', Georgia, "Palatino Linotype", Arial, sans-serif;
-	// font-family: 'Noto Sans', Georgia, "Palatino Linotype", Times, serif;
-	background: #e6e6e6;
+	background: lightsteelblue;
 }
 
-.colFlex {
+.flexColContainer {
 	display: flex;
 	flex-flow: row nowrap;
-	justify-content: center;
+	justify-content: space-around;
 	align-items: flex-start;
+	align-content: flex-start;
 }
 
-.flexChild4 {
-	flex: 0 1 1;
+.flexcol4 {
+	flex-grow: 1;
+	flex-basis: 25%;
+}
+
+.flexcol5 {
+	flex-grow: 1;
+	flex-basis: 20%;
+}
+
+.centerText {
+	text-align: center;
+}
+
+#topContainer {
+	width: 100%;
 }
