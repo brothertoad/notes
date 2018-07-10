@@ -15,6 +15,13 @@
     function fillText(e) {
         let filename = e.currentTarget.getAttribute('data-file') + '.md';
         console.log("filling text from event, file is " + filename);
+        fetch(filename).then(function(response) {
+            response.text().then(function(text) {
+                console.log('text is ' + text);
+                let converter = new showdown.Converter({noHeaderId: true});
+                document.getElementById('textContainer').innerHTML = converter.makeHtml(text);
+            });
+        });
         return false;
     }
   </script>
