@@ -5,7 +5,7 @@ body {
 	background: lightsteelblue;
 }
 
-.flexColContainer {
+.flex-col-container {
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content: space-around;
@@ -13,17 +13,17 @@ body {
 	align-content: flex-start;
 }
 
-.flexcol4 {
+.flex-col4 {
 	flex-grow: 1;
 	flex-basis: 25%;
 }
 
-.flexcol5 {
+.flex-col5 {
 	flex-grow: 1;
 	flex-basis: 20%;
 }
 
-.centerText {
+.center-text {
 	text-align: center;
 }
 

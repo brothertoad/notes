@@ -8,25 +8,27 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdn.rawgit.com/showdownjs/showdown/1.8.6/dist/showdown.min.js"></script>
   <script type="text/javascript">
-    // should have this method assigned to the click event in a window.load method, or something equivalent.
-    var showTextFile = function(filename) {
-        console.log("Showing file name " + filename);
+    $(function() {
+        let links = $(".top-link");
+        links.on("click", fillText);
+    });
+    function fillText(e) {
+        let filename = e.currentTarget.getAttribute('data-file') + '.md';
+        console.log("filling text from event, file is " + filename);
         return false;
-    };
+    }
   </script>
 </head>
 <body>
-  <p>
+  <p class="center-text">
   This page exists to serve as a way for me to keep track of various items, and will not be of use to anyone else
   except as an example of a simple, static web site.
   </p>
-  <div id="topContainer" class="flexColContainer">
-      <!-- should add  a class to the anchors, and use that class to assign the click handlers in a
-      Javascript block - also should have the file name as an attribute -->
-    <div class="flexcol4 centerText"><a href="#" onclick="showTextFile('notes')">Notes</a></div>
-    <div class="flexcol4 centerText"><a href="#" onclick="showTextFile('tasks')">Tasks</a></div>
-    <div class="flexcol4 centerText"><a href="#" onclick="showTextFile('purchases')">Purchases</a></div>
-    <div class="flexcol4 centerText"><a href="#" onclick="showTextFile('hobby')">Hobby</a></div>
+  <div id="topContainer" class="flex-col-container">
+    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="notes">Notes</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="tasks">Tasks</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="purchases">Purchases</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="hobby">Hobby</a></div>
   </div>
   <div id="textContainer">
   </div>
