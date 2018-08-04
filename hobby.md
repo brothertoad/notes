@@ -82,3 +82,16 @@ shows another Tamiya mix for 4BO, using XF-58 Olive Green and XF-4 Yellow Green,
 [This post on Armorama](https://armorama.com/modules.php?op=modload&name=SquawkBox&file=index&req=viewtopic&topic_id=231699&page=1)
 has a reference to XF-58 Olive Green and XF-49 Khaki 50/50, but I tried this and it really
 didn't look right.
+
+For Soviet armor, try NATO Green, Field Grey, or JGSDF Green, or RLM62 per Tom Cleaver
+in Tamiya 1/48 KV-1 review on [Modeling Madness](http://www.modelingmadness.com).
+Note that Field Grey is a match for RLM62.
+
+Tamiya JSDGF Olive Drab for British tanks? or (more likely) Korean War Sherman?
+
+### Miscellaneous, including links
+
+[This page](http://airfieldmodels.com/gallery_of_models/display/tamiya_f4f_4_wildcat/index.htm) on
+airfieldmodels.com shows some good images of the F4F landing gear.
+
+[Pixels and Plastics](http://www.marceldulong.com/plastics) has a lot of great models.
