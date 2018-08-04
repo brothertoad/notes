@@ -63,3 +63,22 @@ Cowl band - 24" from front lip
 - 1 x 09324 Bf 109G-6 Graf
 - 1 x 09303 Bf 109G-4 Hartmann (G tool)
 - 1 x 09363 Bf 109G-6 Barkhorn (missing drop tank and mount and spinner)
+
+### Tamiya paint mixes
+
+Per the 1/48 Bf 109G-6 kit, use XF-54:3 + XF-63:1 for RLM&nbsp;75.  This is a new mix.
+RLM&nbsp;74 is still XF-24:1 + XF-27:3.  XF-54 is Dark Sea Grey, XF-63 is German Grey,
+XF-24 is Dark Grey and XF-27 is Black Green.
+
+PRU Blue, which is BS636 (British Standard) or FS35109, is XF-8:3 +
+XF-2:4.  XF-8 is Flat Blue and XF-2 is Flat White.
+
+[This IPMS review of the ISU-152](https://web.ipmsusa3.org/content/isu-152-2-155mm-bl-10-cannon-2-1)
+shows a mix for 4BO (Soviet armor) using Tamiya paints.
+
+[This page](http://khyronsmodels.blogspot.com/2015/07/)
+shows another Tamiya mix for 4BO, using XF-58 Olive Green and XF-4 Yellow Green, 50/50.
+
+[This post on Armorama](https://armorama.com/modules.php?op=modload&name=SquawkBox&file=index&req=viewtopic&topic_id=231699&page=1)
+has a reference to XF-58 Olive Green and XF-49 Khaki 50/50, but I tried this and it really
+didn't look right.
