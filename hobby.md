@@ -95,3 +95,5 @@ Tamiya JSDGF Olive Drab for British tanks? or (more likely) Korean War Sherman?
 airfieldmodels.com shows some good images of the F4F landing gear.
 
 [Pixels and Plastics](http://www.marceldulong.com/plastics) has a lot of great models.
+
+[A good photo of a stash](http://www.kgwings.com/shamehall/shamehall.html).
