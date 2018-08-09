@@ -87,6 +87,9 @@ For Soviet armor, try NATO Green, Field Grey, or JGSDF Green, or RLM62 per Tom C
 in Tamiya 1/48 KV-1 review on [Modeling Madness](http://www.modelingmadness.com).
 Note that Field Grey is a match for RLM62.
 
+[This topic on Hyperscale](https://www.tapatalk.com/groups/hyperscale/russian-green-t496537.html)
+lists XF49:2 + XF5:1 + XF3:1 as a mix for Soviet green.
+
 Tamiya JSDGF Olive Drab for British tanks? or (more likely) Korean War Sherman?
 
 ### Miscellaneous, including links
