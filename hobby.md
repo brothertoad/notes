@@ -88,9 +88,14 @@ in Tamiya 1/48 KV-1 review on [Modeling Madness](http://www.modelingmadness.com)
 Note that Field Grey is a match for RLM62.
 
 [This topic on Hyperscale](https://www.tapatalk.com/groups/hyperscale/russian-green-t496537.html)
-lists XF49:2 + XF5:1 + XF3:1 as a mix for Soviet green.
+lists XF-49:2 + XF-5:1 + XF-3:1 as a mix for Soviet green.  This also didn't look quite
+right - it seemed a bit too brownish (undoubtedly due to the XF-49 Khaki).
 
 Tamiya JSDGF Olive Drab for British tanks? or (more likely) Korean War Sherman?
+
+The [IPMS Dayton page on Tamiya mixes](http://www.ipmsdayton.com/sites/default/files/Tamiya_Mixes.txt)
+shows XF-70 IJN Green (2) for FS34058, which is Bronze Green, used in many US cockpits.
+XF-70 might be a bit too dark.
 
 ### Miscellaneous, including links
 
