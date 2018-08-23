@@ -23,7 +23,12 @@ on using Middleman in a Docker container.
 
 [Page with fix for mouse lag](https://askubuntu.com/questions/763413/how-can-i-get-rid-of-mouse-lag-under-ubuntu)
 
+### Some Javascript sites
+- [React](http://www.reactjs.org)
+- [Feathers](https://feathersjs.com)
+
 ### Movies to rent from Amazon
 - Hot Millions
 - Cactus Flower
 - The Magus
+- Faster, Pussycat! Kill! Kill!
