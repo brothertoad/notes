@@ -26,9 +26,10 @@ on using Middleman in a Docker container.
 ### Some Javascript sites
 - [React](http://www.reactjs.org)
 - [Feathers](https://feathersjs.com)
+- [Riot](https://riot.js.org) is a front end framework
+- [Quasar](https://quasar-framework.org) is a framework based on vuejs
 
 ### Movies to rent from Amazon
 - Hot Millions
 - Cactus Flower
-- The Magus
 - Faster, Pussycat! Kill! Kill!
