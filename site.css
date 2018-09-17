@@ -14,6 +14,11 @@ body {
 	align-content: flex-start;
 }
 
+.flex-col2 {
+	flex-grow: 1;
+	flex-basis: 50%;
+}
+
 .flex-col4 {
 	flex-grow: 1;
 	flex-basis: 25%;
