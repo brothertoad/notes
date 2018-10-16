@@ -45,6 +45,7 @@ on using Middleman in a Docker container.
     - Pursuit To Algiers
     - Terror By Night
     - Dressed To Kill
+- Girl In The Mirror (8 minute short)
 - Gallery Of Horrors
 - Hot Millions
 - Cactus Flower
