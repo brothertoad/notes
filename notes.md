@@ -30,6 +30,21 @@ on using Middleman in a Docker container.
 - [Quasar](https://quasar-framework.org) is a framework based on vuejs
 
 ### Movies to rent from Amazon
+- Basil Rathbone / Nigel Bruce Sherlock Holmes
+    - The Hound Of The Baskervilles
+    - The Adventures Of Sherlock Holmes
+    - Sherlock Holmes And The Voice Of Terror
+    - Sherlock Holmes And The Secret Weapon
+    - Sherlock Holmes In Washington
+    - Sherlock Holmes Faces Death
+    - The Spider Woman
+    - The Scarlet Claw
+    - The Pearl Of Death
+    - The House Of Fear
+    - The Woman In Green
+    - Pursuit To Algiers
+    - Terror By Night
+    - Dressed To Kill
 - Gallery Of Horrors
 - Hot Millions
 - Cactus Flower
