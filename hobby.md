@@ -97,7 +97,13 @@ The [IPMS Dayton page on Tamiya mixes](http://www.ipmsdayton.com/sites/default/f
 shows XF-70 IJN Green (2) for FS34058, which is Bronze Green, used in many US cockpits.
 XF-70 might be a bit too dark.
 
+[This page](http://cs.finescale.com/fsm/modeling_subjects/f/3/t/117265.aspx) has a mix for Olive Drab
+for US armor.
+
 ### Miscellaneous, including links
+
+[This post](https://www.britmodeller.com/forums/index.php?/topic/235033274-airfix-148-p-51d-not-that-impressed/)
+on britmodeller.com is by a guy who is not terribly impressed with the Airfix 1/48 P-51D.
 
 [This page](http://airfieldmodels.com/gallery_of_models/display/tamiya_f4f_4_wildcat/index.htm) on
 airfieldmodels.com shows some good images of the F4F landing gear.
