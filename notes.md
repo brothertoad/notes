@@ -3,6 +3,9 @@ of public domain books, as does
 [the University of Adelaide](https://ebooks.adelaide.edu.au/index.html)
 (although it is not maintained).
 
+[Center text vertically](https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css).
+The answers also link to a way to do it using flexbox.
+
 [Mystery Scene magazine](https://mysteryscenemag.com)
 
 [East of the Web](http://www.eastoftheweb.com)
