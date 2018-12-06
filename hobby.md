@@ -66,9 +66,18 @@ Cowl band - 24" from front lip
 
 ### Tamiya paint mixes
 
-Per the 1/48 Bf 109G-6 kit, use XF-54:3 + XF-63:1 for RLM&nbsp;75.  This is a new mix.
-RLM&nbsp;74 is still XF-24:1 + XF-27:3.  XF-54 is Dark Sea Grey, XF-63 is German Grey,
+Per the 1/48 Bf 109G-6 kit, use XF-54:3 + XF-63:1 for RLM&nbsp;75
+and XF-24:1 + XF-27:3 for RLM&nbsp;74.  These are new mixes.
+XF-54 is Dark Sea Grey, XF-63 is German Grey,
 XF-24 is Dark Grey and XF-27 is Black Green.
+
+[This page on Hyperscale](http://hyperscale.com/2007/features/fw190a648jt_1.htm)
+shows mixes for RLM&nbsp;76 and RLM&nbsp;74, but not RLM&nbsp;75.  It does
+have photos of the colors.  The subject is Eduard's original tooling of the Fw&nbsp;190.
+
+[This page on world-in-miniature at blogspot](http://worldinminiature.blogspot.com/2010/10/kit-review-tamiya-148-fw-190-f-8.html)
+has a review of the Tamiya Fw&nbsp;190F-8 and includes mixes for all three RLM colors
+(76, 75 and 74).
 
 PRU Blue, which is BS636 (British Standard) or FS35109, is XF-8:3 +
 XF-2:4.  XF-8 is Flat Blue and XF-2 is Flat White.
