@@ -37,5 +37,4 @@ on using Middleman in a Docker container.
 - The Morning After
 - Gallery Of Horrors
 - Hot Millions
-- Cactus Flower
 - Faster, Pussycat! Kill! Kill!
