@@ -56,7 +56,7 @@ Cowl band - 24" from front lip
 - 1 x J12 F-4/trop
 - 1 x Jt63 Bf 109K-4
 - 2 x Jt64 Bf 109G-10
-- 2 x J13 Bf 109G-2 (F tool)
+- 1 x J13 Bf 109G-2 (F tool)
 - 1 x J10 (Jt26) Bf 109F-2
 - 1 x 09326 Bf 109T-2 (Jt9 E-4/7)
 - 1 x Jt48 Bf 109G-14
