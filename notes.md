@@ -34,7 +34,6 @@ on using Middleman in a Docker container.
 
 ### Movies to rent from Amazon
 - Witch-Hunt (2017)
-- Santa Claus Conquers The Martians
 - The Morning After
 - Gallery Of Horrors
 - Hot Millions
