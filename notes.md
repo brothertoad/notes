@@ -3,6 +3,9 @@ of public domain books, as does
 [the University of Adelaide](https://ebooks.adelaide.edu.au/index.html)
 (although it is not maintained).
 
+[Deploying a static site to CloudFront - mentions NameCheap](https://benjamincongdon.me/blog/2017/06/13/How-to-Deploy-a-Secure-Static-Site-to-AWS-with-S3-and-CloudFront/)
+I found this by searching for Namecheap Cloudfront.
+
 [Center text vertically](https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css).
 The answers also link to a way to do it using flexbox.
 
