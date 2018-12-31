@@ -64,7 +64,21 @@ Cowl band - 24" from front lip
 - 1 x 09303 Bf 109G-4 Hartmann (G tool)
 - 1 x 09363 Bf 109G-6 Barkhorn (missing drop tank and mount and spinner)
 
-### Tamiya paint mixes
+### Tamiya mixes 25 Dec 2018
+
+Bronze Green: XF-70 IJN Green (2) cut about 60/40 with XF-2 Flat White.  This has
+a slight bluish tint, good for Grumman cockpits (I think).  Also P-47 cockpits -
+again, maybe.
+
+FS34102: 3 parts XF-5 Flat Green, 3 parts XF-13 JA Green, 1 part XF-2 Flat White.
+
+FS34092 (Euro Green):  XF-26 Deep Green cut about 60/40 with XF-2 Flat White.
+This might also serve as Medium Green as part of disruptive camouflage on US planes.
+
+US Army Olive Drab: 3 parts XF-62 Olive Drab, 1 part XF-60 Dark Yellow.  This is per
+Steve Zalonga's recommendation.
+
+### Tamiya paint mixes references
 
 Per the 1/48 Bf 109G-6 kit, use XF-54:3 + XF-63:1 for RLM&nbsp;75
 and XF-24:1 + XF-27:3 for RLM&nbsp;74.  These are new mixes.
