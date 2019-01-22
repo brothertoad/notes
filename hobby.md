@@ -125,6 +125,9 @@ for US armor.
 
 ### Miscellaneous, including links
 
+[A page on ww2aircraft.net](https://ww2aircraft.net/forum/threads/spitfire-mk-ix-c-early-version-1-48-eduard.39649/)
+documenting a build of the Eduard 1/48 Spitfire IXc.
+
 [This post](https://www.britmodeller.com/forums/index.php?/topic/235033274-airfix-148-p-51d-not-that-impressed/)
 on britmodeller.com is by a guy who is not terribly impressed with the Airfix 1/48 P-51D.
 
