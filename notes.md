@@ -19,6 +19,9 @@ The answers also link to a way to do it using flexbox.
 to make m4b files, which is a format for audiobooks.  You can also put a .nomedia
 file in a directory containing m4b files to prevent a music app from playing them.
 
+[This page](https://www.headway.org.uk/news/national-news/drained-by-fatigue-try-these-8-ways-to-cope-after-brain-injury/)
+has info on fighting fatigue that is due to brain injury.
+
 The Mozilla web docs has [a page describing Javascript fetch](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data).
 
 A playground for using flexbox can be found
