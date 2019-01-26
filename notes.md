@@ -43,6 +43,11 @@ describes a number of CSS libraries/frameworks.
 - [Tachyons](https://tachyons.io)
 
 ### Movies to rent from Amazon
+- Blue Murder
+- Strictly Ballroom
+- Murder, Inc.
+- Mythical Detective Loki Ragnarok (prime)
+- The Shipping News
 - Dr. Jekyll And Mr. Hyde (1932 and 1941 versions)
 - Trenchcoat
 - Candles At Nine
