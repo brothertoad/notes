@@ -19,6 +19,8 @@ Robert Aickman sounds like an interesting author.  Also look at movies based on 
 
 Look at _How To Play Boogie Woogie Piano_ by Arthur Migliazza and Dave Rubin.
 
+Choices Kitchen and Bath, listed on yelp - also Cutler Construction Services
+
 [This page on ArchLinux](https://wiki.archlinux.org/index.php/Audiobook) shows how
 to make m4b files, which is a format for audiobooks.  You can also put a .nomedia
 file in a directory containing m4b files to prevent a music app from playing them.
