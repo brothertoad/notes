@@ -15,6 +15,10 @@ The answers also link to a way to do it using flexbox.
 
 [Mystery File blog](http://mysteryfile.com/blog)
 
+Robert Aickman sounds like an interesting author.  Also look at movies based on Fritz Leiber's _Conjure Wife_.
+
+Look at _How To Play Boogie Woogie Piano_ by Arthur Migliazza and Dave Rubin.
+
 [This page on ArchLinux](https://wiki.archlinux.org/index.php/Audiobook) shows how
 to make m4b files, which is a format for audiobooks.  You can also put a .nomedia
 file in a directory containing m4b files to prevent a music app from playing them.
@@ -42,7 +46,7 @@ describes a number of CSS libraries/frameworks.
 - [Quasar](https://quasar-framework.org) is a framework based on vuejs
 - [Tachyons](https://tachyons.io)
 
-### Movies to rent from Amazon
+### Movies and TV shows to rent from Amazon
 - Blue Murder
 - Strictly Ballroom
 - Murder, Inc.
