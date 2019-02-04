@@ -49,6 +49,10 @@ describes a number of CSS libraries/frameworks.
 - [Tachyons](https://tachyons.io)
 
 ### Movies and TV shows to rent from Amazon
+- Mrs. Bradley Mysteries
+- Murder In Suburbia
+- Edward Scissorhands
+- Murder, Inc.
 - Blue Murder
 - Strictly Ballroom
 - Murder, Inc.
