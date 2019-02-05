@@ -50,7 +50,6 @@ describes a number of CSS libraries/frameworks.
 
 ### Movies and TV shows to rent from Amazon
 - Mrs. Bradley Mysteries
-- Murder In Suburbia
 - Edward Scissorhands
 - Murder, Inc.
 - Blue Murder
