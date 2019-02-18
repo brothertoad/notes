@@ -49,6 +49,18 @@ describes a number of CSS libraries/frameworks.
 - [Tachyons](https://tachyons.io)
 
 ### Movies and TV shows to rent from Amazon
+- The Great Flamarion
+- Jack The Ripper (1959)
+- The Autobiography Of Miss Jane Pittman
+- Sounder
+- Compulsion
+- The Miracle Of Morgan's Creek
+- Black Widow (1987)
+- The Bridges At Toko-Ri
+- Aki Hoshino
+- Innocent Thing
+- Full Moon Of The Virgins
+- Trenchcoat
 - Mrs. Bradley Mysteries
 - Edward Scissorhands
 - Murder, Inc.
