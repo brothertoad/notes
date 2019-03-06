@@ -100,3 +100,4 @@
 - Demi Lovato - Give Your Heart A Break
 - Taylor Swift - Shake It Off and Wildest Dreams
 - songs from Buffy The Vampire Slayer soundtrack - Susanna Hoffs and Divinyls
+- Allman Brothers - Blue Sky and Ramblin' Man
