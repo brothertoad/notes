@@ -1,0 +1,102 @@
+### Books
+- David Baldaccci - Memory Man (first in Amos Decker series)
+- Michael Leese - Going Underground (Jonathan Roper - autistic detective)
+- Chris McGeorge - Guess Who (also look at Amazon page for related titles)
+- Lisa Unger - several series and several standalone
+- Tim Kizer - Dead Girls
+- Stuart Turton - The 7-1/2 Deaths Of Evelyn Hardcastle
+- Catherine Ryan Howard - The Liar's Girl
+- Lucy Foley - The Hunting Party (?)
+- Ruth Ware - In A Dark, Dark Wood (?)
+- Bruce Bryans - What Women Want When They Test Men
+- John Tamny - Popular Economics
+- Timothy Snyder - Black Earth
+- Christopher Browning - Ordinary Men
+- Daniel Goldhagen - Hitler's Willing Executioners
+- Deirdre N. McCloskey - Bourgeois Dignity
+- Linda Ball - 185 Days: School Stories
+- Jo Nesbo - Cockroaches (Harry Hole number 2)
+- James M. Cain - The Postman Always Rings Twice
+- Mark de Castrique - Blackman's Coffin
+- Camilla Lackberg - The Ice Princess
+- Rex Stout - Nero Wolfe duos
+- Annabel Chase - Great Balls Of Fury
+- Shari Lapena - The Couple Next Door
+- Riley Sager - Final Girls
+- Charlaine Harris - Real Murders (Aurora Teagarden number 1)
+- Peter King - The Gourmet Detective (also movies)
+- Joanne Fluke - Chocolate Chip Cookie Murder (also movies)
+- Tess Gerritsen - The Sinner (and then other is Rizzoli/Isles series)
+- Jack Ritchie stories
+- Edward D. Hoch stories
+- Margaret Yorke - Silent Witness (Patrick Grant number 2)
+- Clark Ashton Smith - Maker Of Gargoyles
+- Lewis Spence - The Horn Of Vapula
+- Ron Chernow - Grant (biography of Ulysses S. Grant)
+- Konjaku Monogatari - Japanese folklore
+- Anne Cleeves - Raven Black (Shetland number 1), The Crow Trap (Vera Stanhope number 1)
+- Janet Neel - Death's Bright Angle (Wilson-McLeish number 1)
+- R. Chetwynd-Hayes - The Grange or standalone novels
+- Freeman Wills Crofts - Inspector French's Greatest Case (Inspector French number 1)
+- Ben Wattenberg
+- Dorothy Cannell - The Thin Woman (Ellie Haskell number 1), Murder At Mullings (Florence Norris number 1)
+- Stanley Ellin stories, perhaps novels too
+- Henri Junttila - Find Your Passion
+- Theodore Bryant - Self Discipline In 10 Days
+- S. J. Scott - Habit Stacking
+- Damon Zahariades - To-Do List Formula
+- David Parker - The More You Do The Better You Feel
+- Joe Baldizzone - 50 Things To Do Before Seeing A Psychiatrist
+- Arthur Migliazza and Dave Rubin - How To Play Boogie Woogie Piano
+
+### Music
+- Rod Stewart - She Makes Me Happy
+- Uriah Heep - Celebrate (from The Lansdowne Tapes)
+- Paul McCartney - Take It Away
+- Lindsey Buckingham - Trouble
+- Doobie Brothers - Natural Thing
+- Leann Rimes - Big Deal
+- Echo And The Bunnymen - Lips Like Sugar
+- Matchbox TWenty - Unwell
+- Walk The Moon - Shut Up And Dance With Me
+- Chi Coltrane - Thunder And Lightning
+- Thompson Square - Kiss Me Or Not
+- Colbie Collait - Brighter Than The Sun
+- Tracey Ullman - They Don't Know
+- Train - Ways To Say Goodbye
+- Every Mother's Son - Come On Down To My Boat
+- Emeli Sande - Next To Me
+- Little Big Town - Tornado Song and Little White Church
+- Bee Gees - Lonely Days
+- Sara Evans - Long Way Down
+- The First Edition - Just Dropped In
+- April Wine - Sign Of The Gypsy Queen
+- Nancy Sinatra - Last Of The Secret Agents
+- The Wreckers - Leave The Pieces
+- Donnie Iris - Ah Leah
+- Night Ranger - Sister Christian
+- Passenger - Let Her Go
+- Cat Stevens - Another Saturday Night
+- Joe Jackson - I'm The Man
+- Santana - Winning
+- Roxy Music - Love Is The Drug
+- Martin Briley - The Salt In My Tears
+- Chris Isaak - Wicked Game and Somebody's Crying
+- Rush - Closer To The Heart
+- Oingo Boingo - Dead Man's Party
+- Boz Scaggs - Lido Shuffle
+- Danny Spanos - Hot Cherie
+- Climax Blues Band - I Love You and Couldn't Get It Right
+- Tristan Prettyman - My Oh My
+- Eric Heatherly - Flowers On The Wall
+- Neil Young - Come On Baby Let's Go Downtown
+- The Ventures - Hawaii Five-O theme
+- Kelsea Ballerini - Love Me Like You Mean It
+- The Cure - Friday I'm In Love and Pictures Of You and Just Like Heaven, perhaps more
+- Smash Mouth - I'm A Believer
+- Siouxsie And The Banshees - Dear Prudence
+- Ingrid Michaelson - Girls Chase Boys
+- KT Tunstall - Suddenly I See and Black Horse And The Cherry Tree
+- Demi Lovato - Give Your Heart A Break
+- Taylor Swift - Shake It Off and Wildest Dreams
+- songs from Buffy The Vampire Slayer soundtrack - Susanna Hoffs and Divinyls

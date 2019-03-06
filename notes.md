@@ -17,8 +17,6 @@ The answers also link to a way to do it using flexbox.
 
 Robert Aickman sounds like an interesting author.  Also look at movies based on Fritz Leiber's _Conjure Wife_.
 
-Look at _How To Play Boogie Woogie Piano_ by Arthur Migliazza and Dave Rubin.
-
 Choices Kitchen and Bath, listed on yelp - also Cutler Construction Services
 
 [This page on ArchLinux](https://wiki.archlinux.org/index.php/Audiobook) shows how
