@@ -50,6 +50,7 @@
 - Arthur Migliazza and Dave Rubin - How To Play Boogie Woogie Piano
 
 ### Music
+- Bahari - Dancing On The Sun
 - Rod Stewart - She Makes Me Happy
 - Uriah Heep - Celebrate (from The Lansdowne Tapes)
 - Paul McCartney - Take It Away
