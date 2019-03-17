@@ -48,9 +48,21 @@
 - David Parker - The More You Do The Better You Feel
 - Joe Baldizzone - 50 Things To Do Before Seeing A Psychiatrist
 - Arthur Migliazza and Dave Rubin - How To Play Boogie Woogie Piano
+- Lionel Shriver - The Mandibles
+- A. E. W. Mason - Murder At The Villa Rose
+- Nicholas Blake - A Question Of Proof (Nigel Strangeways number 1)
+- Stuart Palmer - The Penguin Pool Murder (Hildegarde Withers number 1)
+- Maurice Leblanc - Arsene Lupin stories (perhaps as free ebooks)
+- Steven Pressfield
+- Biography of Admiral Yamamoto
+- Carter Dickson (John Dickson Carr) - The Plague Court Murders (Henry Merrivale number 1)
+- Margaret Erskine - And Being Dead aka The Limping Man or The Painted Mask (Septimus Finch number 1)
+- Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
+- Malcolm Gladwell - Outliers
 
 ### Music
 - Bahari - Dancing On The Sun
+- The Smithereens - Meet The Smithereens and earlier works if remastered
 - Styx - Lady
 - Oscar Peterson
 - Thelonius Monk
@@ -59,6 +71,7 @@
 - Trans Siberian Orchestra
 - Gustav Mahler works
 - Gov't Mule
+- Montrose - songs from Paper Money
 - Manhattan Transfer
 - Keith Urban - You're Gonna Fly
 - Lady Antebellum - Love Don't Live Here Anymore
@@ -132,6 +145,34 @@ White Liar and Baggage Claim and The House That Built Me
 - Taylor Swift - Shake It Off and Wildest Dreams
 - songs from Buffy The Vampire Slayer soundtrack - Susanna Hoffs and Divinyls
 - Allman Brothers - Blue Sky and Ramblin' Man
+- Roger Daltrey - Avenging Annie and Say It Aint' So Joe
+- Nelly Furtado - I'm Like A Bird and Turn Off The Light
+- Dido - White Flag
+- Mason Williams - Classical Gas
+
+### TV Series
+- The Blacklist
+- Two Broke Girls
+- How To Get Away With Murder season 3
+- New Girl seasons 5-7
+- Will And Grace season 9+
+- DCI Banks (on Amazon Prime)
+- Stranger Things (Netflix series)
+- Murder Call (Australian series)
+- Death In Paradise season 8
+- The Brokenwood Mysteries
+- D.A.G.
+- Man Caves
+- Hoarders
+- Grimm (on Amazon Prime)
+- Constantine
+- Stalker
+- Go On
+- The Bridge
+- Scandal season 2+
+- Late Columbo movies
+- This Emotional Life
+- Lovespring International
 
 ### Anime
 - Death Parade
