@@ -51,11 +51,41 @@
 
 ### Music
 - Bahari - Dancing On The Sun
+- Styx - Lady
+- Oscar Peterson
+- Thelonius Monk
+- Dizzy Gillespie
+- Blind Lemon Jefferson
+- Trans Siberian Orchestra
+- Gustav Mahler works
+- Gov't Mule
+- Manhattan Transfer
+- Keith Urban - You're Gonna Fly
+- Lady Antebellum - Love Don't Live Here Anymore
+- Miranda Lambert - Kerosene and Gunpower And Lead and Heart Like Mine and
+White Liar and Baggage Claim and The House That Built Me
+- The Band Perry - If I Die Young and Gone and Better Dig Two
+- Carrie Underwood - Blown Away et. al.
+- Sophie B. Hawkins - Damn I Wish I Was Your Lover
+- Sixpence None The Richer - There She Goes and Don't Dream It's Over
+- Crowded House - Something So Strong and Don't Dream It's Over
+- Rainman - Bring Back The Summer
+- Sarah Buxton - That Kind Of Day et. al.
+- Mai Kuraki (Japanese singer)
+- Volbeat - I Only Want To Be With You
+- Status Quo - Sheila (cover of Tommy Roe song, on Pictures Of Matchstick Men album)
+- Gloria Estefan - Live For Loving You and Get On Your Feet
+- Miami Sound Machine - 1,2,3 and Conga
+- The Hollies - The Air That I Breathe
+- The Spinners - Rubber Band Man and One Of A Kind Love Affair et. al.
 - Rod Stewart - She Makes Me Happy
 - Uriah Heep - Celebrate (from The Lansdowne Tapes)
 - Paul McCartney - Take It Away
 - Lindsey Buckingham - Trouble
 - Doobie Brothers - Natural Thing
+- Buffalo Springfield - Go And Say Goodbye
+- Poco - Go And Say Goodbye (Blue Dogs and Buddy Woodward also did covers according to secondhandsongs.com)
+- Linda Ronstadt remastered
 - Leann Rimes - Big Deal
 - Echo And The Bunnymen - Lips Like Sugar
 - Matchbox Twenty - Unwell and She's So Mean
@@ -102,6 +132,14 @@
 - Taylor Swift - Shake It Off and Wildest Dreams
 - songs from Buffy The Vampire Slayer soundtrack - Susanna Hoffs and Divinyls
 - Allman Brothers - Blue Sky and Ramblin' Man
+
+### Anime
+- Death Parade
+- Gun X Sword
+- Cowboy Bebop
+- Upotte
+- Cat Planet Cuties
+- Girls' Last Tour (on Amazon Prime)
 
 [Bloody-disgusting](https://bloody-disgusting.com/) and
 [DreadCentral](https://www.dreadcentral.com/) are horror movie sites.
