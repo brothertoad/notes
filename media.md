@@ -80,7 +80,7 @@
 White Liar and Baggage Claim and The House That Built Me
 - The Band Perry - If I Die Young and Gone and Better Dig Two
 - Carrie Underwood - Blown Away et. al.
-- Sophie B. Hawkins - Damn I Wish I Was Your Lover
+- Sophie B. Hawkins - Damn I Wish I Was Your Lover and As I Lay Me Down
 - Sixpence None The Richer - There She Goes and Don't Dream It's Over
 - Crowded House - Something So Strong and Don't Dream It's Over
 - Rainman - Bring Back The Summer
