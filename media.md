@@ -1,5 +1,6 @@
 ### Books
 - Maxell Maltz - Psycho-Cybernetics
+- Tom Doyle - Man On The Run: Paul McCartney In The 1970's
 - David Baldaccci - Memory Man (first in Amos Decker series)
 - Michael Leese - Going Underground (Jonathan Roper - autistic detective)
 - Chris McGeorge - Guess Who (also look at Amazon page for related titles)
