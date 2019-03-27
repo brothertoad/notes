@@ -60,7 +60,8 @@
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
 - Malcolm Gladwell - Outliers
 
-### Music
+### Music and other audio
+- BBC Radio adaptations of Lord Peter Wimsey
 - Bahari - Dancing On The Sun
 - The Smithereens - Meet The Smithereens and earlier works if remastered
 - Kansas - It Takes A Woman's Love if remastered
