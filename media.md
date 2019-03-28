@@ -63,6 +63,9 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Concrete Blonde - Joey
+- John Cafferty - On The Darkside
+- Diana Ross - Touch Me In The Morning
 - Bahari - Dancing On The Sun
 - The Smithereens - Meet The Smithereens and earlier works if remastered
 - Kansas - It Takes A Woman's Love if remastered
