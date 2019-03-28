@@ -49,7 +49,6 @@
 - Damon Zahariades - To-Do List Formula
 - David Parker - The More You Do The Better You Feel
 - Joe Baldizzone - 50 Things To Do Before Seeing A Psychiatrist
-- Arthur Migliazza and Dave Rubin - How To Play Boogie Woogie Piano
 - Lionel Shriver - The Mandibles
 - A. E. W. Mason - Murder At The Villa Rose
 - Nicholas Blake - A Question Of Proof (Nigel Strangeways number 1)
@@ -62,9 +61,11 @@
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
 - Malcolm Gladwell - Outliers
 
-### Music
+### Music and other audio
+- BBC Radio adaptations of Lord Peter Wimsey
 - Bahari - Dancing On The Sun
 - The Smithereens - Meet The Smithereens and earlier works if remastered
+- Kansas - It Takes A Woman's Love if remastered
 - Styx - Lady
 - Oscar Peterson
 - Thelonius Monk
