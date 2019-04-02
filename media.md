@@ -65,7 +65,7 @@
 - BBC Radio adaptations of Lord Peter Wimsey
 - BTO - Roll On Down The Highway
 - Concrete Blonde - Joey
-- John Cafferty - On The Darkside
+- John Cafferty - On The Dark Side
 - Diana Ross - Touch Me In The Morning
 - Bahari - Dancing On The Sun
 - The Smithereens - Meet The Smithereens and earlier works if remastered
@@ -80,7 +80,7 @@
 - Gov't Mule
 - Montrose - songs from Paper Money
 - Manhattan Transfer
-- Keith Urban - You're Gonna Fly
+- Keith Urban - You Gonna Fly
 - Lady Antebellum - Love Don't Live Here Anymore
 - Miranda Lambert - Kerosene and Gunpower And Lead and Heart Like Mine and
 White Liar and Baggage Claim and The House That Built Me
@@ -156,6 +156,7 @@ White Liar and Baggage Claim and The House That Built Me
 - Nelly Furtado - I'm Like A Bird and Turn Off The Light
 - Dido - White Flag
 - Mason Williams - Classical Gas
+- OMD - Dreaming
 
 ### TV Series
 - The Blacklist
