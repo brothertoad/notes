@@ -157,6 +157,7 @@ White Liar and Baggage Claim and The House That Built Me
 - Dido - White Flag
 - Mason Williams - Classical Gas
 - OMD - Dreaming
+- Salsa music and other Latin jazz
 
 ### TV Series
 - The Blacklist
