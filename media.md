@@ -28,7 +28,7 @@
 - Charlaine Harris - Real Murders (Aurora Teagarden number 1)
 - Peter King - The Gourmet Detective (also movies)
 - Joanne Fluke - Chocolate Chip Cookie Murder (also movies)
-- Tess Gerritsen - The Sinner (and then other is Rizzoli/Isles series)
+- Tess Gerritsen - The Sinner (and then other in Rizzoli/Isles series)
 - Jack Ritchie stories
 - Edward D. Hoch stories
 - Margaret Yorke - Silent Witness (Patrick Grant number 2)
@@ -60,6 +60,7 @@
 - Margaret Erskine - And Being Dead aka The Limping Man or The Painted Mask (Septimus Finch number 1)
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
 - Malcolm Gladwell - Outliers
+- &#197;sa Larsson - Sun Storm (Rebecka Martinsson number 1)
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
