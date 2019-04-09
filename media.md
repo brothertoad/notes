@@ -49,7 +49,6 @@
 - S. J. Scott - Habit Stacking
 - Damon Zahariades - To-Do List Formula
 - David Parker - The More You Do The Better You Feel
-- Joe Baldizzone - 50 Things To Do Before Seeing A Psychiatrist
 - Lionel Shriver - The Mandibles
 - A. E. W. Mason - Murder At The Villa Rose
 - Nicholas Blake - A Question Of Proof (Nigel Strangeways number 1)
