@@ -45,6 +45,7 @@
 - Stanley Ellin stories, perhaps novels too
 - Henri Junttila - Find Your Passion
 - Theodore Bryant - Self Discipline In 10 Days
+- Martin Meadows - books on self-discipline
 - S. J. Scott - Habit Stacking
 - Damon Zahariades - To-Do List Formula
 - David Parker - The More You Do The Better You Feel
@@ -61,9 +62,11 @@
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
 - Malcolm Gladwell - Outliers
 - &#197;sa Larsson - Sun Storm (Rebecka Martinsson number 1)
+- Harry Dolan - Bad Things Happen
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- OMD - Dreaming, perhaps others
 - BTO - Roll On Down The Highway
 - Concrete Blonde - Joey
 - John Cafferty - On The Dark Side
