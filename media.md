@@ -65,6 +65,7 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Sheryl Crow - Mississippi
 - BTO - Roll On Down The Highway
 - Concrete Blonde - Joey
 - John Cafferty - On The Dark Side
