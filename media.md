@@ -65,7 +65,6 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
-- OMD - Dreaming, perhaps others
 - BTO - Roll On Down The Highway
 - Concrete Blonde - Joey
 - John Cafferty - On The Dark Side
