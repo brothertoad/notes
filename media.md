@@ -44,7 +44,6 @@
 - Dorothy Cannell - The Thin Woman (Ellie Haskell number 1), Murder At Mullings (Florence Norris number 1)
 - Stanley Ellin stories, perhaps novels too
 - Henri Junttila - Find Your Passion
-- Theodore Bryant - Self Discipline In 10 Days
 - Martin Meadows - books on self-discipline
 - S. J. Scott - Habit Stacking
 - Damon Zahariades - To-Do List Formula
@@ -62,11 +61,14 @@
 - Malcolm Gladwell - Outliers
 - &#197;sa Larsson - Sun Storm (Rebecka Martinsson number 1)
 - Harry Dolan - Bad Things Happen
+- Martha Grimes' Richard Jury mysteries - already have first two
+- Patrick Quentin - Puzzle For Fools and subsequent - also check for his books under other names
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
 - Christina Perri - Human and A Thousand Years
 - Sheryl Crow - Mississippi
+- Kim Weston - Take Me In Your Arms
 - BTO - Roll On Down The Highway
 - Concrete Blonde - Joey
 - John Cafferty - On The Dark Side
