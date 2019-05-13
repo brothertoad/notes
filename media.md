@@ -63,10 +63,12 @@
 - Harry Dolan - Bad Things Happen
 - Martha Grimes' Richard Jury mysteries - already have first two
 - Patrick Quentin - Puzzle For Fools and subsequent - also check for his books under other names
+- R. S. Hadji - look for lists
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
 - Christina Perri - Human and A Thousand Years
+- Sammy Johns - Chevy Van
 - Sheryl Crow - Mississippi
 - Kim Weston - Take Me In Your Arms
 - BTO - Roll On Down The Highway
@@ -188,6 +190,7 @@ White Liar and Baggage Claim and The House That Built Me
 - Late Columbo movies
 - This Emotional Life
 - Lovespring International
+- Eddie Capra Mysteries
 
 ### Anime
 - Death Parade
