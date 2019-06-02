@@ -67,6 +67,7 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Juice Newton - Love's Been A Little Hard On Me and Queen Of Hearts and Angel Of The Morning
 - Christina Perri - Human and A Thousand Years
 - Sammy Johns - Chevy Van
 - Sheryl Crow - Mississippi
