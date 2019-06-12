@@ -20,7 +20,7 @@
 - Jo Nesbo - Cockroaches (Harry Hole number 2)
 - James M. Cain - The Postman Always Rings Twice
 - Mark de Castrique - Blackman's Coffin
-- Camilla Lackberg - The Ice Princess
+- Camilla Lackberg - The Preacher
 - Rex Stout - Nero Wolfe duos
 - Annabel Chase - Great Balls Of Fury
 - Shari Lapena - The Couple Next Door
@@ -67,6 +67,13 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- The Beat Bugs
+- George Harrison - Let It Roll (remastered songs)
+- Mary Chapin Carpenter - Passionate Kisses
+- Keith Whitley - When You Say Nothing At All - also Alison Krauss version
+- Hal Ketchum - Small Town Saturday Night
+- Jo Dee Messina
+- The Carpenters - Rainy Days And Mondays and We've Only Just Begun
 - Juice Newton - Love's Been A Little Hard On Me and Queen Of Hearts and Angel Of The Morning
 - Christina Perri - Human and A Thousand Years
 - Sammy Johns - Chevy Van
@@ -90,19 +97,23 @@
 - Montrose - songs from Paper Money
 - Manhattan Transfer
 - Keith Urban - You Gonna Fly
+- Sarah McLachlan - Building A Mystery
+- The Grateful Dead - Good Lovin'
+- Loggins And Messina - Angry Eyes
 - Lady Antebellum - Love Don't Live Here Anymore
 - Miranda Lambert - Kerosene and Gunpower And Lead and Heart Like Mine and
-White Liar and Baggage Claim and The House That Built Me
+White Liar and Baggage Claim and The House That Built Me and Famous In A Small Town
 - The Band Perry - If I Die Young and Gone and Better Dig Two
 - Carrie Underwood - Blown Away et. al.
 - Sophie B. Hawkins - Damn I Wish I Was Your Lover and As I Lay Me Down
 - Sixpence None The Richer - There She Goes and Don't Dream It's Over
 - Crowded House - Something So Strong and Don't Dream It's Over
+- Hey Monday - I Don't Wanna Dance
 - Rainman - Bring Back The Summer
 - Sarah Buxton - That Kind Of Day et. al.
 - Mai Kuraki (Japanese singer)
 - Volbeat - I Only Want To Be With You
-- Status Quo - Sheila (cover of Tommy Roe song, on Pictures Of Matchstick Men album)
+- Status Quo - Sheila (cover of Tommy Roe song, on Pictures Of Matchstick Men album) and Safety Dance
 - Gloria Estefan - Live For Loving You and Get On Your Feet
 - Miami Sound Machine - 1,2,3 and Conga
 - The Hollies - The Air That I Breathe
@@ -115,7 +126,7 @@ White Liar and Baggage Claim and The House That Built Me
 - Buffalo Springfield - Go And Say Goodbye
 - Poco - Go And Say Goodbye (Blue Dogs and Buddy Woodward also did covers according to secondhandsongs.com)
 - Linda Ronstadt remastered
-- Leann Rimes - Big Deal
+- LeAnn Rimes - Big Deal
 - Echo And The Bunnymen - Lips Like Sugar
 - Matchbox Twenty - Unwell and She's So Mean
 - Walk The Moon - Shut Up And Dance With Me
@@ -136,7 +147,7 @@ White Liar and Baggage Claim and The House That Built Me
 - Donnie Iris - Ah Leah
 - Night Ranger - Sister Christian
 - Passenger - Let Her Go
-- Cat Stevens - Another Saturday Night
+- Cat Stevens - Another Saturday Night and The First Cut Is The Deepest
 - Joe Jackson - I'm The Man
 - Santana - Winning
 - Roxy Music - Love Is The Drug
