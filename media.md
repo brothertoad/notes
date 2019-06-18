@@ -37,7 +37,7 @@
 - Ron Chernow - Grant (biography of Ulysses S. Grant)
 - Konjaku Monogatari - Japanese folklore
 - Anne Cleeves - Raven Black (Shetland number 1), The Crow Trap (Vera Stanhope number 1)
-- Janet Neel - Death's Bright Angle (Wilson-McLeish number 1)
+- Janet Neel - Death's Bright Angel (Wilson-McLeish number 1)
 - R. Chetwynd-Hayes - The Grange or standalone novels
 - Freeman Wills Crofts - Inspector French's Greatest Case (Inspector French number 1)
 - Ben Wattenberg
