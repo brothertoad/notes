@@ -1,6 +1,5 @@
 ### Books
 - Maxell Maltz - Psycho-Cybernetics
-- Tom Doyle - Man On The Run: Paul McCartney In The 1970's
 - David Baldaccci - Memory Man (first in Amos Decker series)
 - Michael Leese - Going Underground (Jonathan Roper - autistic detective)
 - Chris McGeorge - Guess Who (also look at Amazon page for related titles)
@@ -36,7 +35,7 @@
 - Lewis Spence - The Horn Of Vapula
 - Ron Chernow - Grant (biography of Ulysses S. Grant)
 - Konjaku Monogatari - Japanese folklore
-- Anne Cleeves - Raven Black (Shetland number 1), The Crow Trap (Vera Stanhope number 1)
+- Anne Cleeves - Raven Black (Shetland number 1), Vera Stanhope series (have number 1)
 - Janet Neel - Death's Bright Angel (Wilson-McLeish number 1)
 - R. Chetwynd-Hayes - The Grange or standalone novels
 - Freeman Wills Crofts - Inspector French's Greatest Case (Inspector French number 1)
@@ -61,13 +60,14 @@
 - Malcolm Gladwell - Outliers
 - &#197;sa Larsson - Sun Storm (Rebecka Martinsson number 1)
 - Harry Dolan - Bad Things Happen
-- Martha Grimes' Richard Jury mysteries - already have first two
+- Martha Grimes' Richard Jury mysteries - already have first three
 - Patrick Quentin - Puzzle For Fools and subsequent - also check for his books under other names
 - R. S. Hadji - look for lists
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
 - The Beat Bugs
+- Tim McGraw - It Felt Good On My Lips
 - George Harrison - Let It Roll (remastered songs)
 - Mary Chapin Carpenter - Passionate Kisses
 - Keith Whitley - When You Say Nothing At All - also Alison Krauss version

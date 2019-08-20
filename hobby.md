@@ -54,7 +54,6 @@ Cowl band - 24" from front lip
 ### Bf 109 kits in box in back closet
 
 - 1 x J12 F-4/trop
-- 1 x Jt63 Bf 109K-4
 - 2 x Jt64 Bf 109G-10
 - 1 x J13 Bf 109G-2 (F tool)
 - 1 x J10 (Jt26) Bf 109F-2
