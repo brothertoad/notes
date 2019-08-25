@@ -68,7 +68,6 @@
 - BBC Radio adaptations of Lord Peter Wimsey
 - The Beat Bugs
 - Tim McGraw - It Felt Good On My Lips
-- George Harrison - Let It Roll (remastered songs)
 - Mary Chapin Carpenter - Passionate Kisses
 - Keith Whitley - When You Say Nothing At All - also Alison Krauss version
 - Hal Ketchum - Small Town Saturday Night
