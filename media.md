@@ -20,7 +20,7 @@
 - James M. Cain - The Postman Always Rings Twice
 - Mark de Castrique - Blackman's Coffin
 - Camilla Lackberg - The Preacher
-- Rex Stout - Nero Wolfe duos
+- Rex Stout - Not Quite Dead Enough
 - Annabel Chase - Great Balls Of Fury
 - Shari Lapena - The Couple Next Door
 - Riley Sager - Final Girls
@@ -58,10 +58,11 @@
 - Margaret Erskine - And Being Dead aka The Limping Man or The Painted Mask (Septimus Finch number 1)
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
 - Malcolm Gladwell - Outliers
-- &#197;sa Larsson - Sun Storm (Rebecka Martinsson number 1)
+- &#197;sa Larsson - The Blood Spilt (Rebecka Martinsson number 2)
 - Harry Dolan - Bad Things Happen
-- Martha Grimes' Richard Jury mysteries - already have first three
+- Martha Grimes' Richard Jury mysteries - The Dirty Duck, then Jerusalem Inn
 - Patrick Quentin - Puzzle For Fools and subsequent - also check for his books under other names
+- Andrea Camilleri - Inspector Montalbano series, first is The Shape Of Water (also on video)
 - R. S. Hadji - look for lists
 
 ### Music and other audio
