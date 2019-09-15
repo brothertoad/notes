@@ -47,6 +47,7 @@ describes a number of CSS libraries/frameworks.
 - [Tachyons](https://tachyons.io)
 
 ### Movies and TV shows to rent from Amazon
+- Crimes Of Passion (Swedish TV series starring Tuva Novotny)
 - Suspect
 - The Great Flamarion
 - Jack The Ripper (1959)
