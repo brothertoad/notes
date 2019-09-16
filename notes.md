@@ -48,6 +48,7 @@ describes a number of CSS libraries/frameworks.
 
 ### Movies and TV shows to rent from Amazon
 - Crimes Of Passion (Swedish TV series starring Tuva Novotny)
+- Inspector Winter (Swedish or German TV series)
 - Suspect
 - The Great Flamarion
 - Jack The Ripper (1959)
