@@ -211,6 +211,7 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Upotte
 - Cat Planet Cuties
 - Girls' Last Tour (on Amazon Prime)
+- anything by Hayao Miyazaki (recommended by the Positivity blog)
 
 [Bloody-disgusting](https://bloody-disgusting.com/) and
 [DreadCentral](https://www.dreadcentral.com/) are horror movie sites.
