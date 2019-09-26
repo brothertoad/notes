@@ -122,6 +122,9 @@ XF-70 might be a bit too dark.
 [This page](http://cs.finescale.com/fsm/modeling_subjects/f/3/t/117265.aspx) has a mix for Olive Drab
 for US armor.
 
+[This post](https://www.tapatalk.com/groups/hyperscale/tamiya-xf-5-flat-green-to-testors-interior-green-f-t508810-s10.html)
+on the Hyperscale forums has Tamiya mixes for US colors, both aircraft and olive drab for armor.
+
 ### Miscellaneous, including links
 
 [A page on ww2aircraft.net](https://ww2aircraft.net/forum/threads/spitfire-mk-ix-c-early-version-1-48-eduard.39649/)
