@@ -138,7 +138,7 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Every Mother's Son - Come On Down To My Boat
 - Emeli Sande - Next To Me
 - Little Big Town - Tornado Song and Little White Church
-- Bee Gees - Lonely Days
+- Bee Gees - Lonely Days and New York Mining Disaster 1941
 - Sara Evans - Long Way Down
 - The First Edition - Just Dropped In
 - April Wine - Sign Of The Gypsy Queen
