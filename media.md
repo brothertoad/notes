@@ -112,7 +112,6 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Rainman - Bring Back The Summer
 - Sarah Buxton - That Kind Of Day et. al.
 - Mai Kuraki (Japanese singer)
-- Volbeat - I Only Want To Be With You
 - Status Quo - Sheila (cover of Tommy Roe song, on Pictures Of Matchstick Men album) and Safety Dance
 - Gloria Estefan - Live For Loving You and Get On Your Feet
 - Miami Sound Machine - 1,2,3 and Conga
