@@ -62,6 +62,10 @@ describes a number of CSS libraries/frameworks.
 - Black Widow (1987)
 - The Bridges At Toko-Ri
 - Aki Hoshino
+- (Not) Perfect Human (Japanese movie - prime)
+- Hitchhike (2013 - Japanese movie - prime)
+- Samui Song (prime)
+- Love Detective (prime)
 - Innocent Thing
 - Full Moon Of The Virgins
 - Trenchcoat
