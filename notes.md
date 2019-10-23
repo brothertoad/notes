@@ -61,7 +61,7 @@ describes a number of CSS libraries/frameworks.
 - The Miracle Of Morgan's Creek
 - Black Widow (1987)
 - The Bridges At Toko-Ri
-- Aki Hoshino
+- Aki Hoshino (Captive Factory Girls)
 - (Not) Perfect Human (Japanese movie - prime)
 - Hitchhike (2013 - Japanese movie - prime)
 - Samui Song (prime)
