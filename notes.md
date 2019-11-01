@@ -47,6 +47,10 @@ describes a number of CSS libraries/frameworks.
 - [Tachyons](https://tachyons.io)
 
 ### Movies and TV shows to rent from Amazon
+- Murder Mystery (Adam Sandler and Jennifer Aniston - watch on Netflix)
+- Deception (2016 French movie with Bruno Solo - prime)
+- The City And The City (4 part UK mini-series - prime)
+- Trapped (Icelandic TV series - prime)
 - Topper Returns (prime)
 - Cause For Alarm (prime)
 - An Inspector Calls (TV movie with David Thewlis) (prime)
