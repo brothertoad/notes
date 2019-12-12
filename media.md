@@ -67,17 +67,15 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Katy Perry - Wide Awake
 - The Beat Bugs
 - Tim McGraw - It Felt Good On My Lips
-- Mary Chapin Carpenter - Passionate Kisses
 - Keith Whitley - When You Say Nothing At All - also Alison Krauss version
-- Hal Ketchum - Small Town Saturday Night
 - Jo Dee Messina
 - The Carpenters - Rainy Days And Mondays and We've Only Just Begun
 - Juice Newton - Love's Been A Little Hard On Me and Queen Of Hearts and Angel Of The Morning
 - Christina Perri - Human and A Thousand Years
 - Sammy Johns - Chevy Van
-- Sheryl Crow - Mississippi
 - Kim Weston - Take Me In Your Arms
 - BTO - Roll On Down The Highway
 - Concrete Blonde - Joey
@@ -94,10 +92,8 @@
 - Trans Siberian Orchestra
 - Gustav Mahler works
 - Gov't Mule
-- Montrose - songs from Paper Money
 - Manhattan Transfer
 - Keith Urban - You Gonna Fly
-- Sarah McLachlan - Building A Mystery
 - The Grateful Dead - Good Lovin'
 - Loggins And Messina - Angry Eyes
 - Lady Antebellum - Love Don't Live Here Anymore
@@ -108,7 +104,6 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Sophie B. Hawkins - Damn I Wish I Was Your Lover and As I Lay Me Down
 - Sixpence None The Richer - There She Goes and Don't Dream It's Over
 - Crowded House - Something So Strong and Don't Dream It's Over
-- Hey Monday - I Don't Wanna Dance
 - Rainman - Bring Back The Summer
 - Sarah Buxton - That Kind Of Day et. al.
 - Mai Kuraki (Japanese singer)
