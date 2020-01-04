@@ -1,21 +1,8 @@
-[Gutenberg's Australian site](http://gutenberg.net.au) has numerous epub versions
-of public domain books, as does
-[the University of Adelaide](https://ebooks.adelaide.edu.au/index.html)
-(although it is not maintained).
-
 [Deploying a static site to CloudFront - mentions NameCheap](https://benjamincongdon.me/blog/2017/06/13/How-to-Deploy-a-Secure-Static-Site-to-AWS-with-S3-and-CloudFront/)
 I found this by searching for Namecheap Cloudfront.
 
 [Center text vertically](https://stackoverflow.com/questions/8865458/how-do-i-vertically-center-text-with-css).
 The answers also link to a way to do it using flexbox.
-
-[Mystery Scene magazine](https://mysteryscenemag.com)
-
-[East of the Web](http://www.eastoftheweb.com)
-
-[Mystery File blog](http://mysteryfile.com/blog)
-
-Robert Aickman sounds like an interesting author.  Also look at movies based on Fritz Leiber's _Conjure Wife_.
 
 Choices Kitchen and Bath, listed on yelp - also Cutler Construction Services
 
