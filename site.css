@@ -3,7 +3,13 @@ body {
 	margin-right: 20px;
 	font-family: 'Open Sans', 'Lato', Arial, sans-serif;
 	font-size: 1.0em;
-	background: lightsteelblue;
+	background: #05386B; /* was lightsteelblue */
+	color: #EDF5E1; /* wasn't specified */
+}
+
+/* keep links from changing color */
+a {
+	color: #EDF5E1; /* wasn't specified */
 }
 
 .flex-col-container {
