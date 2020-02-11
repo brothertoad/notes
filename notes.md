@@ -89,7 +89,6 @@ describes a number of CSS libraries/frameworks.
 - Black Widow (1987)
 - The Bridges At Toko-Ri
 - (Not) Perfect Human (Japanese movie - prime)
-- Hitchhike (2013 - Japanese movie - prime)
 - Samui Song (prime)
 - Love Detective (prime)
 - Innocent Thing
@@ -106,7 +105,6 @@ describes a number of CSS libraries/frameworks.
 - Dr. Jekyll And Mr. Hyde (1932 and 1941 versions)
 - Trenchcoat
 - Candles At Nine
-- Witch-Hunt (2017)
 - The Morning After
 - Gallery Of Horrors
 - Hot Millions
