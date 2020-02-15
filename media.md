@@ -20,7 +20,6 @@
 - James M. Cain - The Postman Always Rings Twice
 - Mark de Castrique - Blackman's Coffin
 - Camilla Lackberg - The Preacher
-- Rex Stout - Not Quite Dead Enough
 - Annabel Chase - Great Balls Of Fury
 - Shari Lapena - The Couple Next Door
 - Riley Sager - Final Girls
@@ -60,13 +59,13 @@
 - Malcolm Gladwell - Outliers
 - &#197;sa Larsson - The Blood Spilt (Rebecka Martinsson number 2)
 - Harry Dolan - Bad Things Happen
-- Martha Grimes' Richard Jury mysteries - The Dirty Duck, then Jerusalem Inn
-- Patrick Quentin - Puzzle For Fools and subsequent - also check for his books under other names
+- Patrick Quentin - Puzzle For Players and subsequent - also check for his books under other names
 - Andrea Camilleri - Inspector Montalbano series, first is The Shape Of Water (also on video)
 - R. S. Hadji - look for lists
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Wilson Pickett - Hey Jude
 - Katy Perry - Wide Awake
 - The Beat Bugs
 - Tim McGraw - It Felt Good On My Lips
