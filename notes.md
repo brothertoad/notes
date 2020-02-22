@@ -26,13 +26,6 @@ describes a number of CSS libraries/frameworks.
 
 [Page with fix for mouse lag](https://askubuntu.com/questions/763413/how-can-i-get-rid-of-mouse-lag-under-ubuntu)
 
-### Some Javascript/CSS sites
-- [React](http://www.reactjs.org)
-- [Feathers](https://feathersjs.com)
-- [Riot](https://riot.js.org) is a front end framework
-- [Quasar](https://quasar-framework.org) is a framework based on vuejs
-- [Tachyons](https://tachyons.io)
-
 ### Movies / TV shows not available on Amazon or Netlfix
 - Case (Icelandic TV series, sequel to The Court)
 - Muertres a... (French)
@@ -96,7 +89,6 @@ describes a number of CSS libraries/frameworks.
 - Trenchcoat
 - Mrs. Bradley Mysteries
 - Edward Scissorhands
-- Murder, Inc.
 - Blue Murder
 - Strictly Ballroom
 - Murder, Inc.
