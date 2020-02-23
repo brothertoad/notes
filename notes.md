@@ -45,7 +45,8 @@ describes a number of CSS libraries/frameworks.
 - Darkness: Those Who Kill (2019 Danish TV series)
 
 ### Movies and TV shows to rent from Amazon
-- Murder Mystery (Adam Sandler and Jennifer Aniston - watch on Netflix)
+- Scary Or Die (prime)
+- Of Human Bondage (1934 - prime)
 - Desperate Widows (2016 Swedish - prime)
 - Black Widows (2018 - prime)
 - Irene Huss (MHz)
