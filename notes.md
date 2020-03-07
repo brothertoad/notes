@@ -84,14 +84,14 @@ describes a number of CSS libraries/frameworks.
 - The Bridges At Toko-Ri
 - (Not) Perfect Human (Japanese movie - prime)
 - Samui Song (prime)
-- Love Detective (prime)
 - Innocent Thing
 - Full Moon Of The Virgins
+- Operation Eichmann
 - Trenchcoat
 - Mrs. Bradley Mysteries
 - Edward Scissorhands
 - Blue Murder
-- Strictly Ballroom
+- Strictly Ballroom (watch on Netflix)
 - Murder, Inc.
 - Mythical Detective Loki Ragnarok (prime)
 - The Shipping News
