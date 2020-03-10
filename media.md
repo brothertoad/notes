@@ -65,6 +65,7 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Bananarama - Help!
 - Wilson Pickett - Hey Jude
 - Katy Perry - Wide Awake
 - The Beat Bugs
