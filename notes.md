@@ -29,7 +29,6 @@ describes a number of CSS libraries/frameworks.
 ### Movies / TV shows not available on Amazon or Netlfix
 - Case (Icelandic TV series, sequel to The Court)
 - Muertres a... (French)
-- The Forest (La Foret - French mini-series)
 - Deadwind (Finnish TV series)
 - The Chalet (French TV series)
 - The Break (Belgian TV series)
