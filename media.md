@@ -1,6 +1,7 @@
 ### Books
 - Maxell Maltz - Psycho-Cybernetics
 - David Baldaccci - Memory Man (first in Amos Decker series)
+- Alison Golden - Inspector Graham mysteries
 - Michael Leese - Going Underground (Jonathan Roper - autistic detective)
 - Chris McGeorge - Guess Who (also look at Amazon page for related titles)
 - Lisa Unger - several series and several standalone
