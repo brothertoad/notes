@@ -66,7 +66,8 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
-- Bananarama - Help!
+- Bananarama - Help! and Nathan Jones
+- Pam Tillis - Maybe It Was Memphis
 - Wilson Pickett - Hey Jude
 - Katy Perry - Wide Awake
 - The Beat Bugs
