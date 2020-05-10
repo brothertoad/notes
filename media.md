@@ -66,6 +66,9 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Elvis - Burning Love
+- Gavin Rossdale and All Too Much - Hush
+- All Too Much and Matthew Sweet - Ghosts Of Girlfriends Past
 - Bananarama - Help! and Nathan Jones
 - Alison Krauss - When You Say Nothing At All
 - Pam Tillis - Maybe It Was Memphis
