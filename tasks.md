@@ -1,5 +1,4 @@
 - Jig for holding fuselage when decaling
-- noah-stewart.com
 - https://www.ecologyartisans.com/blog/5-southern-california-drought-tolerant-grasses
 - Creating audiobooks: https://wiki.archlinux.org/index.php/Audiobook
 - Flow improver discussion: https://boardgamegeek.com/thread/2113322/vallejo-airbrush-thinner-vs-flow-improver

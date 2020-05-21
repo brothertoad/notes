@@ -63,6 +63,9 @@
 - Patrick Quentin - Puzzle For Players and subsequent - also check for his books under other names
 - Andrea Camilleri - Inspector Montalbano series, first is The Shape Of Water (also on video)
 - R. S. Hadji - look for lists
+- Miles Burton, pseudonym of Cecil John Charles Street, who also wrote as John Rhode - golden age writer
+- R. A. Bentley - Inspector Felix mysteries
+- Blythe Baker - Miss Alice mysteries
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
