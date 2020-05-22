@@ -14,6 +14,8 @@
     $(function() {
         let links = $(".top-md-link");
         links.on("click", fillMdText);
+        links = $(".top-raw-link");
+        links.on("click", fillRawText);
     });
     function fillMdText(e) {
         let filename = e.currentTarget.getAttribute('data-file') + '.md';
@@ -28,51 +30,66 @@
         });
         return false;
     }
+    function fillRawText(e) {
+        let filename = e.currentTarget.getAttribute('data-file') + '.txt';
+        console.log("filling text from event, file is " + filename);
+        const req = new Request(filename, { cache: "no-cache", method: "GET" });
+        fetch(req).then(function(response) {
+            response.text().then(function(text) {
+                console.log('text is ' + text);
+                document.getElementById('textContainer').innerHTML = '<div class="pre-wrap">\n' + text + '</pre>';
+            });
+        });
+        return false;
+    }
   </script>
 </head>
 <body>
-  <p class="center-text">
+  <h3 class="center-text">Notes</h3>
+  <p class="center-text mw-800">
     This page exists to serve as a way for me to keep track of various items, and will likely not be of use to anyone else
-    except as an example of a simple, static web site.
+    except as an example of a static web site.  Although this is static, it loads pages written in Markdown and pages in
+    raw text dynamically, when you click on one of the list names at the bottom.  To see how this works, you can look
+    at <a href="https://github.com/brothertoad/notes">the source code on GitHub</a>.
   </p>
   <div class="flex-col-container">
-  <div class="flex-col2">
-    External links
-    <ul>
-      <li><a href="http://192.168.1.60:3600">Notes on Jupiter</a></li>
-      <li><a href="https://brothertoad.github.io/notes">Notes on GitHub</a></li>
-      <li><a href="https://www.google.com">Google</a></li>
-      <li><a href="https://mail.google.com">Google Mail</a></li>
-      <li><a href="https://calendar.google.com">Google Calendar</a></li>
-      <li><a href="https://keep.google.com">Google Keep</a></li>
-      <li><a href="https://drive.google.com">Google Drive</a></li>
-      <li><a href="https://voice.google.com">Google Voice</a></li>
-      <li><a href="http://www.uncleuncool.net">Uncle Uncool</a></li>
-      <li><a href="http://www.uncleuncool.net/hidden.html">Uncle Uncool hidden</a></li>
-      <li><a href="http://uulists.s3-website-us-west-2.amazonaws.com/index.html">uulists on S3</a></li>
-      <li><a href="https://unicode-table.com/en/">HTML code table</a></li>
-    </ul>
+    <div class="flex-col2">
+      External links
+      <ul>
+        <li><a href="https://brothertoad.github.io/notes">Notes on GitHub</a></li>
+        <li><a href="https://www.google.com">Google</a></li>
+        <li><a href="https://mail.google.com">Google Mail</a></li>
+        <li><a href="https://calendar.google.com">Google Calendar</a></li>
+        <li><a href="https://keep.google.com">Google Keep</a></li>
+        <li><a href="https://drive.google.com">Google Drive</a></li>
+        <li><a href="https://voice.google.com">Google Voice</a></li>
+        <li><a href="http://www.uncleuncool.net">Uncle Uncool</a></li>
+        <li><a href="http://uulists.s3-website-us-west-2.amazonaws.com/index.html">uulists on S3</a></li>
+        <li><a href="https://unicode-table.com/en/">HTML code table</a></li>
+      </ul>
+    </div>
+    <div class="flex-col2">
+      Jupiter servers
+      <ul>
+        <li><a href="http://192.168.1.60">Home on Jupiter</a></li>
+        <li><a href="http://192.168.1.60:3600">Notes on Jupiter</a></li>
+        <li><a href="http://192.168.1.60:4300">Metalsmith development</a></li>
+        <li><a href="http://192.168.1.60:3700">Saturn clone</a></li>
+        <li><a href="http://192.168.1.60:3800">uncleuncool clone</a></li>
+        <li><a href="http://192.168.1.60:3900">ilovezeusy clone</a></li>
+        <li><a href="http://192.168.1.60:4567">Middleman development</a></li>
+      </ul>
+    </div>
   </div>
-  <div class="flex-col2">
-    Jupiter servers
-    <ul>
-      <li><a href="http://192.168.1.60">Home on Jupiter</a></li>
-      <li><a href="http://localhost:4300">Metalsmith development</a></li>
-      <li><a href="http://192.168.1.60:3700">Saturn clone</a></li>
-      <li><a href="http://192.168.1.60:3800">uncleuncool clone</a></li>
-      <li><a href="http://192.168.1.60:3900">ilovezeusy clone</a></li>
-      <li><a href="http://192.168.1.60:4567">Middleman development</a></li>
-    </ul>
-  </div>
-</div>
   <p class="center-text">
     Lists on this site
   </p>
   <div id="topContainer" class="flex-col-container">
-    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="notes">Notes</a></div>
-    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="tasks">Tasks</a></div>
-    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="media">Media</a></div>
-    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="hobby">Hobby</a></div>
+    <div class="flex-col5 center-text"><a href="" class="top-md-link" data-file="notes">Notes</a></div>
+    <div class="flex-col5 center-text"><a href="" class="top-md-link" data-file="tasks">Tasks from Calendar</a></div>
+    <div class="flex-col5 center-text"><a href="" class="top-md-link" data-file="media">Media</a></div>
+    <div class="flex-col5 center-text"><a href="" class="top-md-link" data-file="hobby">Hobby</a></div>
+    <div class="flex-col5 center-text"><a href="" class="top-raw-link" data-file="legacy-tasks">Legacy Tasks</a></div>
   </div>
   <div id="textContainer">
   </div>

@@ -18,6 +18,7 @@ a {
 	justify-content: space-around;
 	align-items: flex-start;
 	align-content: flex-start;
+	margin-top: 20px;
 }
 
 .flex-col2 {
@@ -42,6 +43,19 @@ a {
 
 .center-text {
 	text-align: center;
+}
+
+.mw-800 {
+	max-width: 800px;
+	margin: auto;
+}
+
+.pre-wrap {
+	white-space: pre-wrap;
+}
+
+.green-bg {
+	background: green;
 }
 
 #topContainer {
