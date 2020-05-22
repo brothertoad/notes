@@ -12,10 +12,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.6/showdown.min.js"></script>
   <script type="text/javascript">
     $(function() {
-        let links = $(".top-link");
-        links.on("click", fillText);
+        let links = $(".top-md-link");
+        links.on("click", fillMdText);
     });
-    function fillText(e) {
+    function fillMdText(e) {
         let filename = e.currentTarget.getAttribute('data-file') + '.md';
         console.log("filling text from event, file is " + filename);
         const req = new Request(filename, { cache: "no-cache", method: "GET" });
@@ -69,10 +69,10 @@
     Lists on this site
   </p>
   <div id="topContainer" class="flex-col-container">
-    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="notes">Notes</a></div>
-    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="tasks">Tasks</a></div>
-    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="media">Media</a></div>
-    <div class="flex-col4 center-text"><a href="" class="top-link" data-file="hobby">Hobby</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="notes">Notes</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="tasks">Tasks</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="media">Media</a></div>
+    <div class="flex-col4 center-text"><a href="" class="top-md-link" data-file="hobby">Hobby</a></div>
   </div>
   <div id="textContainer">
   </div>

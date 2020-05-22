@@ -51,10 +51,10 @@ Stabilizers - 16" band, centered 33" from outermost point
 
 Cowl band - 24" from front lip
 
-### Bf 109 kits in box in back closet
+### Bf 109 bagged kits in box
 
 - 1 x J12 F-4/trop
-- 2 x Jt64 Bf 109G-10
+- 1 x Jt64 Bf 109G-10
 - 1 x J13 Bf 109G-2 (F tool)
 - 1 x J10 (Jt26) Bf 109F-2
 - 1 x 09326 Bf 109T-2 (Jt9 E-4/7)
