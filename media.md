@@ -1,5 +1,6 @@
 ### Books
 - Maxell Maltz - Psycho-Cybernetics
+- David Pogue et. al. - Classical Music For Dummies
 - David Baldaccci - Memory Man (first in Amos Decker series)
 - Alison Golden - Inspector Graham mysteries
 - Michael Leese - Going Underground (Jonathan Roper - autistic detective)
@@ -16,9 +17,24 @@
 - Christopher Browning - Ordinary Men
 - Daniel Goldhagen - Hitler's Willing Executioners
 - Deirdre N. McCloskey - Bourgeois Dignity
+- Simon Schama - An Embarrassment Of Riches
 - Linda Ball - 185 Days: School Stories
+- Barbara Tuchman - The Guns Of August and A Distant Mirror
+- Ernest Becker - The Denial Of Death
+- Erich Hoffer - The True Believer
+- Vilfredo Pareto - Mind And Society
+- Evan Wright - Generation Kill
+- Po Bronson - What Should I Do With My Life?
+- Richard O'Connor - Undoing Depression
+- David Hackett Fischer - Washington's Crossing
+- Gregg Easterbrook - The Progress Paradox
+- T.S. Eliot - The Lovesong Of J. Alfred Prufrock
+- Joseph Wambaugh - Fire Lover
 - Jo Nesbo - Cockroaches (Harry Hole number 2)
-- James M. Cain - The Postman Always Rings Twice
+- James Patterson - Kiss The Girls
+- Michael Crichton - The Great Train Robbery
+- Nick Russell-Pavier and Stewart Richards - The Great Train Robbery
+- Peter Hoeg - Smilla's Sense Of Snow and perhaps others
 - Mark de Castrique - Blackman's Coffin
 - Camilla Lackberg - The Preacher
 - Annabel Chase - Great Balls Of Fury
@@ -57,7 +73,7 @@
 - Carter Dickson (John Dickson Carr) - The Plague Court Murders (Henry Merrivale number 1)
 - Margaret Erskine - And Being Dead aka The Limping Man or The Painted Mask (Septimus Finch number 1)
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
-- Malcolm Gladwell - Outliers
+- Malcolm Gladwell - The Tipping Point and Outliers
 - &#197;sa Larsson - The Blood Spilt (Rebecka Martinsson number 2)
 - Harry Dolan - Bad Things Happen
 - Patrick Quentin - Puzzle For Players and subsequent - also check for his books under other names
@@ -66,6 +82,7 @@
 - Miles Burton, pseudonym of Cecil John Charles Street, who also wrote as John Rhode - golden age writer
 - R. A. Bentley - Inspector Felix mysteries
 - Blythe Baker - Miss Alice mysteries
+- Music textbooks?
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
