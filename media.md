@@ -82,6 +82,7 @@
 - Miles Burton, pseudonym of Cecil John Charles Street, who also wrote as John Rhode - golden age writer
 - R. A. Bentley - Inspector Felix mysteries
 - Blythe Baker - Miss Alice mysteries
+- Anthony Berkeley
 - Music textbooks?
 
 ### Music and other audio

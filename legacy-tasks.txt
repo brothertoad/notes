@@ -1,4 +1,9 @@
-=== Lilypond (from lists/mup) ===
+=== General ===
+
+Organize MP3's, email, midi files, and images
+Scan photos
+
+=== Lilypond ===
 
 (from lists/mup)
 Gigue en rondeau
