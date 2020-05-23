@@ -69,6 +69,13 @@
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
+- Sly And The Family Stone - Everyday People and Dance To The Music and Stand
+- Four Seasons - Walk Like A Man and Sherry and Big Girls Don't Cry and Dawn and Rag Doll
+- Frankie Valli - Can't Take My Eyes Off You and My Eyes Adored You
+- Lulu - To Sir With Love studio version
+- Five Man Electrical Band - Signs
+- Cream
+- Johnny Rivers - Hey Joe
 - Elvis - Burning Love
 - Gavin Rossdale and All Too Much - Hush
 - All Too Much and Matthew Sweet - Ghosts Of Girlfriends Past
@@ -93,11 +100,11 @@
 - Bahari - Dancing On The Sun
 - The Smithereens - Meet The Smithereens and earlier works if remastered
 - Kansas - It Takes A Woman's Love if remastered
-- Styx - Lady
 - Oscar Peterson
 - Thelonius Monk
 - Dizzy Gillespie
 - Blind Lemon Jefferson
+- Fats Waller
 - Trans Siberian Orchestra
 - Gustav Mahler works
 - Gov't Mule
