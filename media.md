@@ -92,6 +92,7 @@
 - Frankie Valli - Can't Take My Eyes Off You and My Eyes Adored You
 - Lulu - To Sir With Love studio version
 - Five Man Electrical Band - Signs
+- Tim McGraw
 - Cream
 - Johnny Rivers - Hey Joe
 - Elvis - Burning Love
@@ -116,8 +117,10 @@
 - John Cafferty - On The Dark Side
 - Diana Ross - Touch Me In The Morning
 - Bahari - Dancing On The Sun
+- John Fred And His Playboy Band - Judy In Disguise
 - The Smithereens - Meet The Smithereens and earlier works if remastered
 - Kansas - It Takes A Woman's Love if remastered
+- Sam Cooke - Twisting The Night Away and Another Saturday Night
 - Oscar Peterson
 - Thelonius Monk
 - Dizzy Gillespie
@@ -127,7 +130,11 @@
 - Gustav Mahler works
 - Gov't Mule
 - Manhattan Transfer
+- Collin Raye
+- Alan Jackson (?)
+- Mary Tyler Moore theme by Sonny Curtis (perhaps rip from DVD?)
 - Keith Urban - You Gonna Fly
+- Kasey Chambers
 - The Grateful Dead - Good Lovin'
 - Loggins And Messina - Angry Eyes
 - Lady Antebellum - Love Don't Live Here Anymore
@@ -136,7 +143,7 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - The Band Perry - If I Die Young and Gone and Better Dig Two
 - Carrie Underwood - Blown Away et. al.
 - Sophie B. Hawkins - Damn I Wish I Was Your Lover and As I Lay Me Down
-- Sixpence None The Richer - There She Goes and Don't Dream It's Over
+- Sixpence None The Richer - There She Goes and Don't Dream It's Over and Kiss Me
 - Crowded House - Something So Strong and Don't Dream It's Over
 - Rainman - Bring Back The Summer
 - Sarah Buxton - That Kind Of Day et. al.
@@ -166,7 +173,7 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Every Mother's Son - Come On Down To My Boat
 - Emeli Sande - Next To Me
 - Little Big Town - Tornado Song and Little White Church
-- Bee Gees - Lonely Days and New York Mining Disaster 1941
+- The Bee Gees - Lonely Days and New York Mining Disaster 1941
 - Sara Evans - Long Way Down
 - The First Edition - Just Dropped In
 - April Wine - Sign Of The Gypsy Queen
