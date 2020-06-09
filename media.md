@@ -101,7 +101,8 @@
 - Bananarama - Help! and Nathan Jones
 - Alison Krauss - When You Say Nothing At All
 - Pam Tillis - Maybe It Was Memphis
-- Wilson Pickett - Hey Jude
+- Wilson Pickett - Hey Jude and Hey Joe (?)
+- Jackson 5 - I'll Be There and ABC, perhaps others
 - Katy Perry - Wide Awake
 - The Beat Bugs
 - Tim McGraw - It Felt Good On My Lips
