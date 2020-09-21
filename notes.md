@@ -44,8 +44,8 @@ describes a number of CSS libraries/frameworks.
 - Darkness: Those Who Kill (2019 Danish TV series)
 
 ### Movies and TV shows to rent from Amazon
+- Jar City
 - Scary Or Die (prime)
-- Of Human Bondage (1934 - prime)
 - Desperate Widows (2016 Swedish - prime)
 - Black Widows (2018 - prime)
 - Irene Huss (MHz)
@@ -59,15 +59,13 @@ describes a number of CSS libraries/frameworks.
 - Hidden (Welsh - Acorn)
 - The Court (Icelandic TV series - PBS Masterpiece)
 - Trapped (Icelandic TV series - prime)
-- Deception (2016 French movie with Bruno Solo - prime)
 - The City And The City (4 part UK mini-series - prime)
-- Trapped (Icelandic TV series - prime)
 - The Black Raven (1943 - prime)
 - The Dark Hour (1936 - prime)
 - One Body Too Many (prime)
 - The Riverside Murder (1935 - prime)
 - Topper Returns (prime)
-- Cause For Alarm (prime)
+- Cause For Alarm
 - The Suspicions Of Mr. Whicher TV movies (prime)
 - Crimes Of Passion (Swedish TV series starring Tuva Novotny)
 - Inspector Winter (Swedish or German TV series)
