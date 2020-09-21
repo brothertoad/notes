@@ -217,6 +217,7 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Salsa music and other Latin jazz
 
 ### TV Series
+- Zoey's Extraordinary Playlist
 - Gil Mayo mysteries
 - Hailey Dean mysteries
 - The Blacklist
