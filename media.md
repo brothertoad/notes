@@ -201,8 +201,7 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Neil Young - Come On Baby Let's Go Downtown
 - The Ventures - Hawaii Five-O theme
 - Kelsea Ballerini - Love Me Like You Mean It
-- The Cure - Friday I'm In Love and Pictures Of You and Just Like Heaven, perhaps more
-- Smash Mouth - I'm A Believer
+- The Cure - Pictures Of You and Just Like Heaven, perhaps more
 - Siouxsie And The Banshees - Dear Prudence
 - Ingrid Michaelson - Girls Chase Boys
 - KT Tunstall - Suddenly I See and Black Horse And The Cherry Tree
@@ -218,24 +217,21 @@ White Liar and Baggage Claim and The House That Built Me and Famous In A Small T
 - Salsa music and other Latin jazz
 
 ### TV Series
+- Gil Mayo mysteries
+- Hailey Dean mysteries
 - The Blacklist
 - Two Broke Girls
 - How To Get Away With Murder season 3
-- New Girl seasons 5-7
 - Will And Grace season 9+
 - DCI Banks (on Amazon Prime)
 - Stranger Things (Netflix series)
-- Murder Call (Australian series)
-- Death In Paradise season 8
-- The Brokenwood Mysteries
+- Death In Paradise seasons 9 and 10
 - D.A.G.
 - Man Caves
 - Hoarders
-- Grimm (on Amazon Prime)
 - Constantine
 - Stalker
 - Go On
-- The Bridge
 - Scandal season 2+
 - Late Columbo movies
 - This Emotional Life
