@@ -87,6 +87,13 @@
 - Blythe Baker - Miss Alice mysteries
 - Jussi Adler-Olsen - The Keeper Of Lost Causes (?)
 - Anthony Berkeley
+- Peter Lovesey - The Last Detective (Peter Diamond number 1)
+- LJ Ross - DCI Ryan series (The Infirmary is prequel, Holy Island is number 1)
+- Damien Boyd - DI Nick Dixon series
+- JM Dalgliesh - Hidden Norfolk series and Dark Yorkshire series
+- Peter James - A Twist Of The Knife and Roy Grace series
+- John Carson - DCI Harry McNeil series
+- David Blake - DI Tanner series
 - Music textbooks?
 
 ### Music and other audio
