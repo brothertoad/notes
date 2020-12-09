@@ -1,6 +1,7 @@
 ### Books
 - Kingley Amis
 - Camille Paglia
+- Frederic Flach, MD - The Secret Strength Of Depression
 - Truman Capote - Answered Prayers
 - Maxell Maltz - Psycho-Cybernetics
 - David Pogue et. al. - Classical Music For Dummies
