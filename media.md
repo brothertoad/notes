@@ -96,6 +96,7 @@
 - John Carson - DCI Harry McNeil series
 - David Blake - DI Tanner series
 - Music textbooks?
+- Look at [Wikipedia entry for Maenad](https://en.wikipedia.org/wiki/Maenad) and look at references
 
 ### Music and other audio
 - BBC Radio adaptations of Lord Peter Wimsey
