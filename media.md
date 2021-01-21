@@ -95,6 +95,10 @@
 - Peter James - A Twist Of The Knife and Roy Grace series
 - John Carson - DCI Harry McNeil series
 - David Blake - DI Tanner series
+- Channing Whitaker - One Night In Drake Mansion (Skeptic Detective number 1 - Kindle)
+- Hermione Moon (pseudonym of Serenity Woods) - One Dark And Stormy Knight (Avalon Caf&eacute; number 1 - Kindle)
+- Tess Lake - Torrent Witches Cozy Mysteries Complete Box Set (Kindle)
+- C. L. Clark - Opening The Veil (New Sight Series number 1 - Kindle)
 - Music textbooks?
 - Look at [Wikipedia entry for Maenad](https://en.wikipedia.org/wiki/Maenad) and look at references
 
@@ -104,6 +108,7 @@
 - Four Seasons - Walk Like A Man and Sherry and Big Girls Don't Cry and Dawn and Rag Doll
 - Frankie Valli - Can't Take My Eyes Off You and My Eyes Adored You
 - Lulu - To Sir With Love studio version
+- Dwight Twilley Band - I'm On Fire
 - Five Man Electrical Band - Signs
 - Tim McGraw
 - Cream
