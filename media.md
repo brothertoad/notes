@@ -99,6 +99,7 @@
 - Hermione Moon (pseudonym of Serenity Woods) - One Dark And Stormy Knight (Avalon Caf&eacute; number 1 - Kindle)
 - Tess Lake - Torrent Witches Cozy Mysteries Complete Box Set (Kindle)
 - C. L. Clark - Opening The Veil (New Sight Series number 1 - Kindle)
+- Louise Penny - A Fatal Grace (Arnaud Gamache number 2)
 - Music textbooks?
 - Look at [Wikipedia entry for Maenad](https://en.wikipedia.org/wiki/Maenad) and look at references
 
