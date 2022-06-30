@@ -74,7 +74,6 @@
 - Maurice Leblanc - Arsene Lupin stories (perhaps as free ebooks)
 - Steven Pressfield
 - Biography of Admiral Yamamoto
-- Carter Dickson (John Dickson Carr) - The Plague Court Murders (Henry Merrivale number 1)
 - Margaret Erskine - And Being Dead aka The Limping Man or The Painted Mask (Septimus Finch number 1)
 - Georges Simenon - Maigret And The Enigmatic Lett aka The Strange Case Of Peter The Lett (Inspector Maigret number 1)
 - Malcolm Gladwell - The Tipping Point and Outliers
